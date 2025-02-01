@@ -30,7 +30,7 @@
         database, including received messages, sent messages, usernames, and passwords.</string>
 
     <!-- Name of application on Home screen -->
-    <string name="app_name">Email</string>
+    <string name="app_name">JulianEmail</string>
 
     <!-- Actions will be used as buttons and in menu items -->
     <skip />
